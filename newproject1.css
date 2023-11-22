@@ -1,0 +1,163 @@
+@media  screen and (max-width:900px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: antiquewhite;
+    }
+    .header{
+    
+    }
+    .main{
+        display: flex;
+        flex-direction: column;
+    }
+    .section3{
+        display: flex;
+        flex-direction: column;
+    }
+    .purple{
+        width: 100%;
+        margin: 0px;
+    }
+    .black{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 0;
+    }
+    .section5{
+        display: flex;
+        flex-direction: column;
+    }
+    .section4{
+        display: flex;
+        flex-direction: column;
+    }
+    .img4{
+        margin: 0;
+    }
+     .nav{
+        display: none;
+     }     
+    }
+
+@media  screen and (max-width:600px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: chocolate;
+    }
+    .header{
+
+    }
+    .main{
+        display: flex;
+        flex-direction: column;
+    }
+    .section3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .broom img{
+        width: 280px;
+        height: 220px;
+    }
+    .brush img{
+        width: 280px;
+        height: 220px;
+    }
+    .chair img{
+        width: 280px;
+        height: 220px;
+    }
+    .purple{
+        width: 100%;
+        margin: 0px;
+    }
+    .black{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 0;
+
+    }
+    .biro, .pencil, .ruler{
+        width: 30%;
+    }
+    .section5{
+        display: flex;
+        flex-direction: column;
+    }
+    .section4{
+        display: flex;
+        flex-direction: column;
+    }
+    .img4{
+        margin: 0;
+    }
+     .nav{
+        display: none;
+     }     
+} 
+@media  screen and (max-width:375px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .header{
+        padding: ;
+        margin-bottom: 1rem;
+    }
+    .main{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .main-img{
+        width: 100%;
+    }
+    .main1{
+        width: 100%;
+    }
+    .section3{
+        display: flex;
+        flex-direction: column;
+    }
+    .purple{
+        width: 100%;
+        margin: 0px;
+    }
+    .black{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+    }
+    .biro{
+
+    }
+    .section5{
+        display: flex;
+        flex-direction: column;
+    }
+    .section4{
+        display: flex;
+        flex-direction: column;
+    }
+    .img4{
+        margin: 0;
+    }
+     .nav{
+        display: none;
+     }     
+}  

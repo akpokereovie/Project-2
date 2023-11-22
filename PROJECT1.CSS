@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    margin: auto;
+}
+.nav{
+    display: flex;
+    background-color: whitesmoke;
+    align-items: center;
+    padding:0px 20px ;
+}
+.nav ul li{
+    list-style-type: none;
+
+}
+li{
+    display: flex;
+    align-items: center;
+}
+.nav ul li a{
+    color: #000;
+    text-decoration: none;
+}
+.nav ul{
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+.nav img{
+    width: 50px;
+}
+.blue{
+   margin-left: 700px; 
+   gap: 10px;
+   display: none;
+}
+.header{
+    background-color: blue;
+    padding: 10px;
+    margin-bottom: 1rem;
+}
+.header p{
+    text-align: center;
+    color: white;
+}
+.search{
+    position: relative;
+    margin: 0px 20px;
+}
+#logo{
+    width: 20px;
+    position: absolute;
+}
+.main{
+    display: flex;
+    gap: rem;
+    background-color: aliceblue;
+}
+.main-img{
+    width: 50%;
+}
+.main-img img{
+    width: 100%;
+}
+.purple{
+width: 500px;
+height: 350px;
+margin-left: 70px;
+}
+.main1{
+    margin-top: ;
+    padding: 100px 10px;
+    width: 50%;
+}
+.button1{
+ margin-bottom: 10px;
+border: none;
+background-color: white;
+color: red;
+}
+.button2{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    width: 70px;
+}
+.txt{
+    margin-left: 20px;
+}
+.black{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    text-align: center;
+}
+.section3{
+    display: flex;
+    margin: 60px 40px;
+    gap: 150px;
+}
+.section3 button{
+    border: none;
+    background-color: white;
+    color: darkblue;
+}
+.but{
+    margin-left: 50px;
+}
+.butt2{
+margin-left: 70px;
+}
+.section4{
+    background-color: black;
+    padding:  60px 60px;
+    display: flex;
+}
+.section4 h2{
+    color: white;
+    margin-bottom: 30px;
+}
+.section4 p{
+    color: white;
+}
+.butt4{
+    margin-top: 20px;
+}
+.butt4 a{
+    margin-left: 70px;
+    color: white;
+    text-decoration: none;
+}
+.img4{
+    margin-left: 360px;
+    gap: 40px;
+}
+.fourth6{
+    margin-top: 100px;
+}
+.fb{
+    margin-top: 60px;
+}
+.section5{
+    display: flex;
+    margin-top: 35px;
+    gap: 135px;
+}
+.ii img{
+    width: 290px ;
+    height: 180px;
+}
+.iii img{
+    width: 290px;
+    height: 180px;
+}
+.iv img{
+    width: 290px;
+    height: 180px;
+}
+.v img{
+    width: 290px;
+    height: 180px;
+}
+.section5 a{
+    color: darkblue;
+    text-decoration: none;
+}
